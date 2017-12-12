@@ -1,0 +1,24 @@
+body{
+  background: url("http://bossfight.co/wp-content/uploads/2015/12/boss-fight-free-high-quality-stock-images-photos-photography-empire-state-building.jpg") no-repeat;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+#container{
+  width: 960px;
+  margin: 0 auto;
+}
+
+#login_container{
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  float: left;
+  padding: 40px;
+  line-height: 30px;
+  margin-top: 180px;
+}
+
+#login_container a{
+  color: white;
+}
